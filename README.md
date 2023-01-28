@@ -11,7 +11,7 @@
 
 
 
-## Developement
+## Developement :
 ### Commands Used  -
 - mkdir
 - mv
@@ -25,7 +25,6 @@
 
 ### Output:
 
-![archive-shell_script](https://user-images.githubusercontent.com/122169637/215249676-82b35556-f74f-4608-9f80-5d849936f9f5.JPG)
 
 #### Added the Path :
 
